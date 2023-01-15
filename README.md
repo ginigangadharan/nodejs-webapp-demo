@@ -30,5 +30,7 @@ $ podman run -p 49160:8080 -d ginigangadharan/node-web-app
 $ curl -i localhost:49160
 ```
 
-Ref:
- https://awstip.com/lets-deploy-our-first-nodejs-application-on-kubernetes-874870270b5b
+## References
+
+- [Dockerizing a Node.js web app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+- [Let’s Deploy our first NodeJS application on Kubernetes](https://awstip.com/lets-deploy-our-first-nodejs-application-on-kubernetes-874870270b5b)
